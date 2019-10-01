@@ -55,7 +55,7 @@ function listOrg(orgData,targetUL) {
       // Select new lower level <ul> tag
       var lowUL = targetUL.querySelector('ul');
       // Recurse
-      listOrg(orgData[i].children,lowUL );
+      listOrg(orgData[i].children,newUL );
     }
   }
 }
