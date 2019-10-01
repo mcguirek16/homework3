@@ -1,5 +1,3 @@
-<!-- begin snippet: js hide: false console: true babel: null -->
-
 // DATA
 
 const org1_depts = [
